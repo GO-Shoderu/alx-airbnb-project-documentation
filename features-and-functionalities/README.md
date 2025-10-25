@@ -31,7 +31,6 @@ These are the internal technical capabilities that enable the above core functio
 
 
 ##  Non-Functional Requirements
-
 Non-functional requirements define system qualities and constraints that ensure the system meets user and operational expectations.
 
 | Quality Attribute | Implementation                                    |
@@ -43,3 +42,7 @@ Non-functional requirements define system qualities and constraints that ensure 
 | **Documentation** | API specs via Swagger / OpenAPI.                  |
 
 
+## System Overview Diagram
+Below is a high-level view of all backend features and how they relate:
+
+![Airbnb Backend Features](./airbnb_features.png)
