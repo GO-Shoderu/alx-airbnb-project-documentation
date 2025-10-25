@@ -1,6 +1,7 @@
 # Airbnb Backend – User Stories
 This document translates the core use cases into user stories to describe how different actors interact with the system and what goals they aim to achieve.
 
+
 ## Guest Stories
 
 ### Register and Authenticate
@@ -11,3 +12,13 @@ This document translates the core use cases into user stories to describe how di
 
 ### Make a Payment
 **As a guest**, I want to pay securely online so that my booking is confirmed and I receive proof of payment.
+
+
+## Host Stories
+
+### Manage Property Listings
+**As a host**, I want to create, edit, or delete property listings so that I can manage what guests see and book.
+
+### Respond to Reviews and Booking Requests
+**As a host**, I want to respond to reviews and approve booking requests so that I can maintain good guest relationships and control my schedule.
+
