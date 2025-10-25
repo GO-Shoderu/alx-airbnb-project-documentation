@@ -28,3 +28,11 @@ This document translates the core use cases into user stories to describe how di
 ### Manage Users and Listings
 **As an admin**, I want to review and manage users and listings so that inappropriate or fraudulent activity is controlled.
 
+
+## Payment and Notification (System-level)
+
+### Process Refunds and Payouts
+**As the system**, I want to issue refunds and host payouts automatically so that financial transactions remain accurate.
+
+### Send Notifications
+**As the notification service**, I want to send emails and in-app alerts so that users are informed about important updates.
