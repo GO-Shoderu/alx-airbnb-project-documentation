@@ -43,6 +43,6 @@ Non-functional requirements define system qualities and constraints that ensure 
 
 
 ## System Overview Diagram
-Below is a high-level view of all backend features and how they relate:
+Below is a high-level view of all backend features and how they relate.
 
 ![Airbnb Backend Features](./airbnb_features.png)
