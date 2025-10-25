@@ -29,3 +29,17 @@ These are the internal technical capabilities that enable the above core functio
 | **Third-Party Integrations**       | Stripe / PayPal for payments, SendGrid for emails.                                |
 | **Error Handling & Logging**       | Centralized error responses, audit logs, validation errors.                       |
 
+
+##  Non-Functional Requirements
+
+Non-functional requirements define system qualities and constraints that ensure the system meets user and operational expectations.
+
+| Quality Attribute | Implementation                                    |
+| ----------------- | ------------------------------------------------- |
+| **Scalability**   | Modular architecture; load balancing.             |
+| **Security**      | Data encryption, password hashing, rate-limiting. |
+| **Performance**   | Caching (Redis), optimized queries.               |
+| **Testing**       | Unit & integration tests for all endpoints.       |
+| **Documentation** | API specs via Swagger / OpenAPI.                  |
+
+
