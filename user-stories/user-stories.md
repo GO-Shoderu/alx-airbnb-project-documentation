@@ -22,3 +22,9 @@ This document translates the core use cases into user stories to describe how di
 ### Respond to Reviews and Booking Requests
 **As a host**, I want to respond to reviews and approve booking requests so that I can maintain good guest relationships and control my schedule.
 
+
+## Admin Stories
+
+### Manage Users and Listings
+**As an admin**, I want to review and manage users and listings so that inappropriate or fraudulent activity is controlled.
+
