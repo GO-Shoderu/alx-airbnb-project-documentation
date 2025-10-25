@@ -1,4 +1,4 @@
-# Airbnb Clone Backend – User Stories Overview
+# Airbnb Backend – User Stories Overview
 
 This folder contains user stories derived from the use case diagrams of the Airbnb backend system.
 
