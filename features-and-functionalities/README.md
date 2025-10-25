@@ -17,3 +17,15 @@ These are the main backend features, it answers the question "What".
 | **Admin Dashboard**   | Controls system-wide management.                           | Manage Users, Manage Bookings, View Reports              |
 
 
+## Technical Features
+These are the internal technical capabilities that enable the above core functionalities; it answers the question "How".
+
+| Aspect                             | Description                                                                       |
+| ---------------------------------- | --------------------------------------------------------------------------------- |
+| **Database Management**            | PostgreSQL schema with tables for Users, Properties, Bookings, Payments, Reviews. |
+| **API Development**                | RESTful endpoints using Express.js or Django REST Framework.                      |
+| **Authentication & Authorization** | JWT-based sessions; role-based access (guest, host, admin).                       |
+| **File Storage**                   | Cloud storage for property images (AWS S3 or local file storage).                 |
+| **Third-Party Integrations**       | Stripe / PayPal for payments, SendGrid for emails.                                |
+| **Error Handling & Logging**       | Centralized error responses, audit logs, validation errors.                       |
+
